@@ -36,7 +36,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: "株式会社SkyBox",
     image: "/portfolio/skybox_thumbnail.png",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Claude Code","Google AI Studio", "Vercel"],
-    href: "https://skybox-client.vercel.app",
+    href: "https://skybox-hp.vercel.app",
     description: "株式会社SkyBoxのHP Claude CodeによるAI駆動開発",
     publishedAt: "作成日: 2026",
   },
